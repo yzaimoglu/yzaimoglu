@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a Java Developer based in Berlin, Germany 🇩🇪.
+#### I am a Java Developer based in Berlin, Germany 🇩🇪
 
 ##### NOW
 
