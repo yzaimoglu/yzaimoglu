@@ -1,5 +1,5 @@
 <h1 align="center">hey, i am <a href="https://yagizalp.dev" target="blank">yagi</a></h1>
-<h3 align="center">a computer engineer in aachen</h3>
+<h3 align="center">a computer engineering student in aachen</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
