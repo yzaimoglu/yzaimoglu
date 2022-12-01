@@ -1,9 +1,26 @@
-### Hi there 👋
+<h1 align="center">hey, i am <a href="https://yagizalp.dev" target="blank">yagi</a></h1>
+<h3 align="center">a computer engineer in aachen</h3>
 
-#### I am a Developer based in Aachen, Germany 🇩🇪
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
-##### BIO
+- ⚙️ i am currently studying computer engineering @ <a href="https://rwth-aachen.de" target="blank">rwth aachen university</a>
 
-- 🖥️ I am currently studying Computer Engineering at **RWTH Aachen**
-- ⚙️ I use daily: `.c`, `.cpp`, `.go` and `.js`
-- 📫 Reach me: [twitter.com/yzaimoglu](https://twitter.com/yzaimoglu)
+- 🖥️ i use `.c`, `.cpp`, `.go`, `.js` and `.java` daily
+
+- 📫 feel free to contact me at **yagizalp@zaimoglu.de**
+
+- 📄 check out my <a href="https://yagizalp.dev" target="blank">portfolio</a>
+
+
+
+### My Current Projects
+
+- [Election Tracker](https://github.com/yzaimoglu/election-tracker)
+- Hardware Password Manager
+- Smart Business Cards
+
+---
+
+Last Edited on: 01.12.2022
