@@ -1,4 +1,4 @@
-<h1 align="center">hey, i am <a href="https://yagizalp.dev" target="blank">yagi</a></h1>
+<h1 align="center">hey, i am <a href="https://yagizalp.dev" target="blank">yagizalp</a></h1>
 <h3 align="center">a computer engineering student in aachen</h3>
 
 <a target="_blank" align="center">
