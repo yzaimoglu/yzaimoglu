@@ -18,7 +18,7 @@
 ### My Current Projects
 
 - [Election Tracker](https://github.com/yzaimoglu/election-tracker)
-- [Smart Business Cards](https://github.com/yzaimoglu/oss-smartcards)
+- [Flathunter](https://github.com/yzaimoglu/flathunter)
 - Hardware Password Manager
 
 ---
