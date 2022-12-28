@@ -17,7 +17,7 @@
 
 ### My Current Projects
 
-- [Election Tracker](https://github.com/yzaimoglu/election-tracker)
+- [Election Tracker](https://github.com/yzaimoglu/election)
 - [Flathunter](https://github.com/yzaimoglu/flathunter)
 - Hardware Password Manager
 
