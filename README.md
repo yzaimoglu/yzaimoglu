@@ -17,10 +17,10 @@
 
 ### My Current Projects
 
-- [Election Tracker](https://github.com/yzaimoglu/election)
 - [Flathunter](https://github.com/yzaimoglu/flathunter)
+- [Election Tracker](https://github.com/yzaimoglu/election)
 - Hardware Password Manager
 
 ---
 
-Last Edited on: 26.12.2022
+Last Edited on: 08.01.2023
