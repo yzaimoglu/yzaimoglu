@@ -1,11 +1,11 @@
-<h1 align="center">hey, i am <a href="https://yagizalp.dev" target="blank">yagizalp</a></h1>
+<h1 align="center">hey, i am <a href="https://yagi.sh" target="blank">yagi</a></h1>
 <h3 align="center">a computer engineering student in aachen</h3>
 
 - ⚙️ i am currently studying computer engineering @ <a href="https://rwth-aachen.de" target="blank">rwth aachen university</a>
 
 - 🖥️ i use `.c`, `.cpp`, `.go`, `.js` and `.java` daily
 
-- 📫 feel free to contact me at **yagizalp@zaimoglu.de**
+- 📫 feel free to contact me at **yz@yagi.sh**
 
 - 📄 check out my <a href="https://yagizalp.dev" target="blank">portfolio</a>
 
@@ -26,4 +26,4 @@
 
 ###
 
-Last Edited on: 18.04.2023
+Last Edited on: 03.06.2023
