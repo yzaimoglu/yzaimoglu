@@ -7,7 +7,7 @@
 
 - 📫 feel free to contact me at **yz@yagi.sh**
 
-- 📄 check out my <a href="https://yagizalp.dev" target="blank">portfolio</a>
+- 📄 check out my <a href="https://yagi.sh" target="blank">portfolio</a>
 
 
 
