@@ -13,7 +13,7 @@
 
 ### My Current Projects
 
-- [Flathunter](https://github.com/yzaimoglu/flathunter)
+- [Flathunter](https://github.com/yzaimoglu/flathunter-pub)
 - [Election Tracker](https://github.com/yzaimoglu/election)
 - Hardware Password Manager
 
