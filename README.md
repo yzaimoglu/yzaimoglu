@@ -3,7 +3,7 @@
 
 - ⚙️ i am currently studying computer engineering @ <a href="https://rwth-aachen.de" target="blank">rwth aachen university</a>
 
-- 🖥️ i use `.c`, `.cpp`, `.go`, `.js` and `.java` daily
+- 🖥️ i use `.c`, `.cpp`, `.go`, and `.ts` daily
 
 - 📫 feel free to contact me at **yz@yagi.sh**
 
