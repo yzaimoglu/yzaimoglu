@@ -13,9 +13,13 @@
 
 ### My Current Projects
 
+- [Mitocho](https://github.com/yzaimoglu/mitocho)
+- [Draken](https://github.com/yzaimoglu/draken)
+- [Hardlock](https://github.com/yzaimoglu/hardlock)
+
+### My Old Projects
 - [Flathunter](https://github.com/yzaimoglu/flathunter-pub)
 - [Election Tracker](https://github.com/yzaimoglu/election)
-- Hardware Password Manager
 
 ---
 
@@ -25,4 +29,4 @@
 
 ###
 
-Last Edited on: 14.06.2023
+Last Edited on: 04.04.2024
